@@ -26,7 +26,7 @@ I have a demonstrated track record of expertise in the following key areas:
 
 ## 🔗 Where to Find Me
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=eFFwkyIAAAAJ&hl=en&authuser=2)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jsafari9624/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaysafari/)
 
 
 Feel free to connect with me to discuss research opportunities, collaborations, or innovative projects in the field of XR and AI.
