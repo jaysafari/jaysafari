@@ -1,4 +1,4 @@
-# Hi, I'm Jay Safari 👋
+# Hi, I'm Jalal Safari 👋
 I am a researcher specializing in the development of immersive Virtual and Augmented Reality (XR) applications.
 
 ## 🧭 My Journey So Far
