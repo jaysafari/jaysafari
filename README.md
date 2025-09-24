@@ -25,6 +25,7 @@ I have a demonstrated track record of expertise in the following key areas:
 
 
 ## 🔗 Where to Find Me
+- 🌐 [Portfolio](https://jaysafari.github.io/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=eFFwkyIAAAAJ&hl=en&authuser=2)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaysafari/)
 
